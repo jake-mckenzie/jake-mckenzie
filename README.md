@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-🔭 I’m currently working on:
-- [https://github.com/jake-mckenzie/GokedexCLI] - A CLI Pokedex, built with Go
+🔭 Here's what I'm currently working on:
+- [jake-mckenzie\Gokedex](https://github.com/jake-mckenzie/GokedexCLI) - A CLI Pokedex, built with Go
 
 🌱 I’m currently learning:
 - Golang

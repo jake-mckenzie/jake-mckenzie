@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-- 🔭 I’m currently working on:
+🔭 I’m currently working on:
 - [https://github.com/jake-mckenzie/GokedexCLI] - A CLI Pokedex, built with Go
 
-- 🌱 I’m currently learning:
+🌱 I’m currently learning:
 - Golang
 - Python

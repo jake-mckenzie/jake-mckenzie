@@ -4,7 +4,7 @@ Hi 👋 My name is Jake
 Software Developer/Student
 --------------------------
 
-I've been coding for just over 3 years, switching careers from IT
+I've been coding for just over 3 years, but have past experience building basic websites. Switching careers from IT.
 
 * 🌍  I'm based in Vancouver
 * 🚀  I'm currently working on [A CLI Pokedex in Golang](http://github.com/jake-mckenzie/GokedexCLI)

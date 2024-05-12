@@ -1,4 +1,4 @@
-Hi 👋 My name is Jake
+Jake McKenzie
 =====================
 
 Software Developer && Student

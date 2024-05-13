@@ -7,9 +7,7 @@ Software Developer && Student
 I've been studying programming for just over 3 years, but have past experience building basic websites. Switching careers from IT.
 
 * 🌍  I'm based in Vancouver
-* 🚀  I'm currently working on
-[A CLI Pokedex in Go](http://github.com/jake-mckenzie/GokedexCLI)
-[Simple Music Player App](https://github.com/jake-mckenzie/musicPlayer)
+* 🚀  I'm currently working on [A CLI Pokedex in Go](http://github.com/jake-mckenzie/GokedexCLI) && [Simple Music Player App](https://github.com/jake-mckenzie/musicPlayer)
 * 🧠  I'm learning Golang
 
 ### Skills
@@ -27,4 +25,3 @@ I've been studying programming for just over 3 years, but have past experience b
 
 <a href="https://www.github.com/jake-mckenzie"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jake-mckenzie&stroke=ffffff&background=0d1117&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="https://github.com/jake-mckenzie"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jake-mckenzie&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<!--<a href="http://www.github.com/jake-mckenzie"><img src="https://github-readme-stats.vercel.app/api?username=jake-mckenzie&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=0d1117&hide_border=true&show_icons=true" alt="jake-mckenzie's GitHub stats" /></a>-->

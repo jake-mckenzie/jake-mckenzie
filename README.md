@@ -7,8 +7,8 @@ Software Developer && Student
 I've been studying programming for just over 3 years, but have past experience building basic websites. Switching careers from IT.
 
 * 🌍  I'm based in Vancouver
-* 🚀  I'm currently working on [A CLI Pokedex in Go](http://github.com/jake-mckenzie/GokedexCLI) && [Simple Music Player App](https://github.com/jake-mckenzie/musicPlayer)
-* 🧠  I'm learning Golang
+* 🚀  I'm currently working on [Simple Music Player App](https://github.com/jake-mckenzie/musicPlayer)
+* 🧠  I'm learning JavaScript
 
 ### Skills
 

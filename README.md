@@ -8,7 +8,7 @@ I've been studying programming for just over 3 years, but have past experience b
 
 * 🌍  I'm based in Vancouver
 * 🚀  I'm currently working on [Simple Music Player App](https://github.com/jake-mckenzie/musicPlayer)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning JavaScript && Python
 
 ### Skills
 

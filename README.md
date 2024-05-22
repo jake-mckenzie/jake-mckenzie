@@ -7,9 +7,6 @@ Software Developer && Student
 I've been studying programming for just over 3 years, but have past experience building basic websites. Switching careers from IT.
 
 * 🌍  I'm based in Vancouver
-* 🚀  I'm currently working on a [Music Player App](https://github.com/jake-mckenzie/musicPlayer)
-* 🧠  I'm learning JavaScript
-
 ### Skills
 
 <p align="left">

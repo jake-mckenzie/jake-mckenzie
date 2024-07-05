@@ -1,9 +1,6 @@
 Jake McKenzie
 =====================
 
-Software Developer && IT Consultant
------------------------------------
-
 I've been studying programming for just over 3 years, but have past experience building basic websites. Currently working in IT.
 
 * 🌍  I'm based in Vancouver, BC
